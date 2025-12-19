@@ -1,3 +1,6 @@
+!!! This is my personal fork of oh-pmy-zsh, dont use it!!
+
+
 <p align="center"><img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" alt="Oh My Zsh"></p>
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/)
