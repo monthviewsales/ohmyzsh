@@ -414,7 +414,7 @@ alias gwtmv='git worktree move'
 alias gwtrm='git worktree remove'
 alias gstu='gsta --include-untracked'
 alias gtl='gtl(){ git tag --sort=-v:refname -n --list "${1}*" }; noglob gtl'
-alias gk='\gitk --all --branches &!'
+alias gka='\gitk --all --branches &!'
 alias gke='\gitk --all $(git log --walk-reflogs --pretty=%h) &!'
 
 unset git_version
